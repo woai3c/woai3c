@@ -8,7 +8,7 @@
 
 | 方向 | 技术 |
 |------|------|
-| **前端** | TypeScript、React、Vue、Next.js、React Native/Expo、Vite/Webpack、TailwindCSS、Wails/Electron |
-| **后端** | Node.js（Hono/Nest.js/Express）、PostgreSQL、DynamoDB、SQLite、Redis |
-| **AI Agent** | 循环检测/异常熔断/上下文压缩、LLM 归因分类、Agent 自修复、RAG（向量+FTS5 混合检索、OpenAI/Ollama/ONNX Embedding、记忆去重合并） |
-| **DevOps** | AWS（Lambda/SQS/DynamoDB/S3/CloudFront）、SST、Docker/K8S、CI/CD |
+| **前端** | TypeScript、React/Vue、Next.js、React Native/Expo、Vite/Webpack、TailwindCSS、Wails/Electron 等 |
+| **后端** | Node.js（Hono/Nest.js/Express）、PostgreSQL/DynamoDB/SQLite、Redis 等 |
+| **AI Agent** | 循环检测/异常熔断/上下文压缩、LLM 归因分类、Agent 自修复、RAG（向量+FTS5 混合检索、多 Embedding 支持、记忆去重合并）等 |
+| **DevOps** | AWS（Lambda/SQS/DynamoDB/S3 等）、SST、Docker/K8S、CI/CD 等 |
