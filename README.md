@@ -1,10 +1,8 @@
 ## 正在找工作
 
-9 年+全栈开发，目前在看远程工作机会，AI/Agent 开发、前后端、全栈都可以聊。
+9 年+全栈开发，目前在看远程工作机会，AI Agent 应用开发、前后端、全栈都可以聊。
 
 **邮箱：** 411020382@qq.com &nbsp;|&nbsp; **微信：** fullstack-xf &nbsp;|&nbsp; **博客：** [掘金](https://juejin.cn/user/1433418893103645/posts?sort=popular) / [知乎](https://www.zhihu.com/people/tan-guang-zhi-19/posts)
-
----
 
 ## 技术栈
 
